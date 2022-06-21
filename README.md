@@ -1,1 +1,1 @@
-# sudoku-solver
+# CIFAR10-image-classification
